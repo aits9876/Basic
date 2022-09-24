@@ -6,4 +6,5 @@ for ele in lst:
 		res.append(ele)
 print(res)
 
+This is the python program for removing duplicate elements from given list
 
